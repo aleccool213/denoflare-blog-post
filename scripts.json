@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "start": "deno run index.ts",
+    "test": "deno test index.test.ts",
+    "denoflare": "denoflare"
+  }
+}
