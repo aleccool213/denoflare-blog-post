@@ -8,4 +8,14 @@
 
 ## Commands
 
--
+- Serve the worker with:
+
+```bash
+vr denoflare serve a-b-test-local
+```
+
+- Publish the worker with:
+
+```bash
+vr denoflare push a-b-test-local
+```
